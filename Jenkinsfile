@@ -1,6 +1,6 @@
 def remote = [:]
 remote.name = 'test'
-remote.host = '18.209.87.84'
+remote.host = '3.236.174.133'
 remote.port = 22
 remote.allowAnyHosts = true
 
